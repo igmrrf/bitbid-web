@@ -5,6 +5,7 @@
 /node_modules/
 /.local/
 /.cache/
+/.wrangler/
 /coverage/
 .DS_Store
 *.log

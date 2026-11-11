@@ -1,0 +1,10 @@
+# Upload only these public files. Add new public assets explicitly.
+*
+!/index.html
+!/app.js
+!/styles.css
+!/fonts/
+!/fonts/archivo.css
+!/fonts/archivo-latin.woff2
+!/fonts/martian.css
+!/fonts/martian-mono-latin.woff2
